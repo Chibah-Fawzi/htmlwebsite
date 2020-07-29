@@ -89,9 +89,11 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background: url('../imgs/wp.png') no-repeat;
+    background: url('../imgs/1.jpg') no-repeat;
+    background-attachment: fixed;
     text-align: center;
     color: black;
+    background-size: cover;
     /* filter: blur(1px); */
 }
 
